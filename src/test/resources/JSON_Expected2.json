@@ -1,0 +1,45 @@
+{
+  "_id": "647d8e4dfeb1c66b057669b0",
+  "index": 0,
+  "guid": "dfd14539-cae1-4a9c-89bb-6c2586696137",
+  "isActive": true,
+  "balance": "$2,663.41",
+  "picture": "https://placehold.it/32x32",
+  "age": 25,
+  "eyeColor": "brown",
+  "name": "Malinda Reese",
+  "gender": "female",
+  "company": "OCEANICA",
+  "email": "malindareese@oceanica.com",
+  "phone": "+1 (903) 422-3696",
+  "address": "570 Richmond Street, Biddle, Delaware, 4366",
+  "about": "Do aliquip proident non exercitation laboris amet reprehenderit. Irure laborum aliquip ullamco sit quis sint irure incididunt voluptate minim ipsum. Consectetur mollit amet aute non incididunt ipsum deserunt nisi. Voluptate est id veniam voluptate amet esse non esse incididunt est et mollit ullamco qui. Laborum Lorem elit esse enim aute proident tempor culpa. Reprehenderit occaecat commodo nostrud velit dolore nulla ullamco tempor eiusmod velit. Dolor laboris mollit commodo est id exercitation mollit in sunt est est.\r\n",
+  "registered": "2021-12-05T10:38:24 +04:00",
+  "latitude": -82.498641,
+  "longitude": -34.176591,
+  "tags": [
+    "occaecat",
+    "ex",
+    "elit",
+    "amet",
+    "cupidatat",
+    "culpa",
+    "sit"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Floyd Chan"
+    },
+    {
+      "id": 1,
+      "name": "Cecilia Elliott"
+    },
+    {
+      "id": 2,
+      "name": "Mae Mayer"
+    }
+  ],
+  "greeting": "Hello, Malinda Reese! You have 5 unread messages.",
+  "favoriteFruit": "strawberry"
+}
