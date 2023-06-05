@@ -1,0 +1,25 @@
+{
+  "name": "John Smith",
+  "age": 28,
+  "address": {
+    "street": "123 Main Street",
+    "city": "Anytown",
+    "country": "Randomland"
+  },
+  "occupation": "Software Engineer",
+  "experience": {
+    "company": "XYZ Corporation",
+    "position": "Senior Developer",
+    "years": 7
+  },
+  "interests": "Reading, Traveling, Photography",
+  "languages": {
+    "english": "Fluent",
+    "spanish": "Intermediate",
+    "french": "Basic"
+  },
+  "certifications": {
+    "certificate1": "Certified Scrum Master",
+    "certificate2": "AWS Certified Developer"
+  }
+}

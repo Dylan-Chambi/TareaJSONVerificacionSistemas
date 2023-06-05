@@ -17,7 +17,9 @@ public class UtilsJSONTest {
     @CsvSource({
             "JSON_Actual1.json, JSON_Expected1.json, false",
             "JSON_Actual2.json, JSON_Expected2.json, true",
-            "JSON_Actual3.json, JSON_Expected3.json, false"
+            "JSON_Actual3.json, JSON_Expected3.json, false",
+            "JSON_Actual4.json, JSON_Expected4.json, false",
+            "JSON_Actual5.json, JSON_Expected5.json, true"
     })
     public void verifyCompareJSON(String actualFile, String expectedFile, boolean expectedResult) throws FileNotFoundException {
         String filePathActual = new File("src/test/resources/" + actualFile).getAbsolutePath();

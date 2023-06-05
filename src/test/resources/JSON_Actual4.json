@@ -1,0 +1,28 @@
+{
+  "nombre": "John Smith",
+  "edad": 32,
+  "direccion": {
+    "calle": "123 Main Street",
+    "ciudad": "Anytown"
+  },
+  "intereses": ["deportes", "viajes", "musica"],
+  "experiencia": {
+    "trabajo": [
+      {
+        "empresa": "ABC Company",
+        "puesto": "Gerente de Ventas",
+        "anios": 5
+      },
+      {
+        "empresa": "XYZ Corporation",
+        "puesto": "Analista de Datos",
+        "anios": 3
+      }
+    ],
+    "educacion": {
+      "titulo": "Licenciatura en Ingeniería",
+      "institucion": "Universidad Random",
+      "anios": 4
+    }
+  }
+}
